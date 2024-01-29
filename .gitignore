@@ -1,0 +1,10 @@
+data/estensi.glb
+dataset/videos/*
+dataset/photos/*
+dataset/photos_paper/*
+dataset/videos_backup/*
+dataset/small_test/*
+dataset/*
+yolov3.weights
+output/*
+painting_db/*
